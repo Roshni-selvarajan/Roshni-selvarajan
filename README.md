@@ -21,13 +21,8 @@
 
 ### I am a AI Developer..
 - 🌱 I’m currently learning AI,LLM & GenAI
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-
+- 👩‍💻 Constantly learning
+- 😄 Driven by a passion for AI, with expertise in computer vision, NLP, and generative models. Focused on crafting innovative solutions to solve real-world challenges.
 <br>
 
 ### Languages and Tools: 
