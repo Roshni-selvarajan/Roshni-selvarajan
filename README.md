@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="/home/rosh/Pictures/AI__ANIMATION.mp4" />
 
 ### I am a AI Developer..
 - 🌱 I’m currently learning AI,LLM & GenAI
