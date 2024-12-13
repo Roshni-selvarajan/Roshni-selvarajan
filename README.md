@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/09/Blog8_2.1-edited-1024x576.jpg) 
+  ![Matrix SVG](https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/09/Blog8_2.1-edited-1024x576.jpg) 
 <p>
   <h1 align="center"><b>Hello there, I'm Roshni..</b></h1>
 </p>
