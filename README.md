@@ -61,4 +61,3 @@
 </p>
 
 -----
-Credits: [sameer1604](https://github.com/sameer1604)
