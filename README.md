@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="/home/rosh/Pictures/AI__ANIMATION" />
+<img align="right" height="270px" alt="GIF" src="https://github.com/Roshni-selvarajan/Roshni-selvarajan/commit/002f11abc46d938f0bbf3ef651064cec8255524f"/>
 
 ### I am a AI Developer..
 - 🌱 I’m currently learning AI,LLM & GenAI
